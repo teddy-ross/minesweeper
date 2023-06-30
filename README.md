@@ -1,1 +1,2 @@
-# The game of minesweeper
+# The Classic Game of Minesweeper written in Python with graphical user interface
+
