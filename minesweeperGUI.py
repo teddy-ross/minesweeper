@@ -1,5 +1,5 @@
 """
-Author: Liz Matthews
+Author: Edward Ross
 File: minesweeperGUI.py
 
 Displays a window with multiple buttons and plays the connect four game.
